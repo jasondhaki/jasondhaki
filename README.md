@@ -1,4 +1,4 @@
-<img align="left" src="assets/visual-map.gif" width="380" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
+<img align="left" src="assets/visual-map.gif" width="408" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
 
 <h1>Hi, I'm Jason Dhaki 👋</h1>
 
@@ -13,7 +13,7 @@
 
 <a href="https://jasondhaki-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/jason-dhaki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jasondhaki05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jasondhaki05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=jasondhaki&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br clear="left"/>
@@ -179,7 +179,7 @@ Native Android app that switches to vibrate / silent / DND on a weekly schedule 
 
 Open to internships and junior roles in **AI &amp; Automation**, **Full-Stack**, **Web** and **App Development**.
 
-<a href="mailto:jasondhaki05@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jasondhaki05@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/jason-dhaki/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="" />
