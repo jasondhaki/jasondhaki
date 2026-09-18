@@ -4,7 +4,7 @@
 
 <b>Full-Stack &amp; AI Automation Developer</b> · Dhaka, Bangladesh
 
-<a href="https://jasondhaki-dev.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=38BDF8&vCenter=true&width=440&height=34&lines=I+ship+full-stack+web+apps+and+AI+agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Currently+building+an+MIS+for+an+NGO" alt="What I do" /></a>
+<a href="https://jasondhaki-dev.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=38BDF8&vCenter=true&width=400&height=34&lines=I+ship+full-stack+web+apps+and+AI+agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Currently+building+an+MIS+for+an+NGO" alt="What I do" /></a>
 
 🎓 B.S. Computer Science &amp; Engineering, East West University (2028)<br/>
 🌍 Building <b>HB-IMIS</b> for HOPE Worldwide Bangladesh<br/>
