@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jason%20Dhaki&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Automation%20Developer&descAlignY=56&descSize=17" width="100%" alt="Jason Dhaki" />
 
-<img src="assets/visual-map.svg" width="300" alt="Dithered 1-bit portrait of Jason Dhaki" />
+<img src="assets/visual-map.gif" width="380" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
 
 <a href="https://jasondhaki-dev.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=CS+%26+Engineering+student+in+Dhaka%2C+Bangladesh;I+ship+full-stack+web+apps+and+AI+agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Currently+building+an+MIS+for+an+NGO" alt="What I do" />
