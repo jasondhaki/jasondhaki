@@ -1,6 +1,10 @@
 <img align="left" src="assets/visual-map.gif" width="408" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
 
-<h1>Hi, I'm Jason Dhaki 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-light.svg" />
+  <img src="assets/title-light.svg" width="420" alt="Hi, I'm Jason Dhaki 👋" />
+</picture>
 
 <b>Full-Stack &amp; AI Automation Developer</b> · Dhaka, Bangladesh
 
