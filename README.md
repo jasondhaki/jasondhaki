@@ -1,33 +1,26 @@
-<div align="center">
+<img align="left" src="assets/visual-map.gif" width="380" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jason%20Dhaki&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Automation%20Developer&descAlignY=56&descSize=17" width="100%" alt="Jason Dhaki" />
+<h1>Hi, I'm Jason Dhaki 👋</h1>
 
-<img src="assets/visual-map.gif" width="380" alt="Dithered 1-bit portrait of Jason Dhaki dissolving into a particle swarm" />
+<b>Full-Stack &amp; AI Automation Developer</b> · Dhaka, Bangladesh
 
-<a href="https://jasondhaki-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=CS+%26+Engineering+student+in+Dhaka%2C+Bangladesh;I+ship+full-stack+web+apps+and+AI+agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Currently+building+an+MIS+for+an+NGO" alt="What I do" />
-</a>
+<a href="https://jasondhaki-dev.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=38BDF8&vCenter=true&width=440&height=34&lines=I+ship+full-stack+web+apps+and+AI+agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Currently+building+an+MIS+for+an+NGO" alt="What I do" /></a>
 
-<br/>
+🎓 B.S. Computer Science &amp; Engineering, East West University (2028)<br/>
+🌍 Building <b>HB-IMIS</b> for HOPE Worldwide Bangladesh<br/>
+🤖 LLM pipelines, retrieval &amp; evidence-grounded AI<br/>
+💼 Open to internships &amp; junior roles
 
 <a href="https://jasondhaki-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/jason-dhaki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:jasondhaki05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=jasondhaki&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 
-</div>
+<br clear="left"/>
 
 ---
 
 ## 🧭 About
-
-```yaml
-name:      Jason Dhaki
-location:  Dhaka, Bangladesh  (UTC+6)
-studying:  B.S. Computer Science & Engineering — East West University (2028)
-building:  full-stack products and AI agents that go to real users
-open_to:   internships & junior roles — AI/Automation, Full-Stack, Web & App Dev
-```
 
 - 🤖 I work on **AI & automation**: LLM pipelines, retrieval, and evidence-grounded generation where every claim traces back to a source.
 - 🌍 Currently building **HB-IMIS**, an integrated management information system for **HOPE Worldwide Bangladesh** — education, school health and vocational programmes under one roof.
